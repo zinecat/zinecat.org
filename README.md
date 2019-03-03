@@ -36,6 +36,7 @@ For the last two years, [Jenna Freedman](http://lowereastsidelibrarian.info/) & 
 - make a zine
 
 Please read our: 
+- Roadmap
 - Code of Conduct
 - Contributor's Guidelines
 - [Zine Librarian's Code of Ethics](http://zinelibraries.info/code-of-ethics/) 
