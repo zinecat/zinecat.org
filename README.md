@@ -28,7 +28,7 @@ For the last two years, [Jenna Freedman](http://lowereastsidelibrarian.info/) & 
 - outreach support
 
 ### How can you get involved?
-- volunteer
+- provide feedback
 - donate time
 - donate expertise
 - make a suggestion
@@ -38,7 +38,7 @@ For the last two years, [Jenna Freedman](http://lowereastsidelibrarian.info/) & 
 Insert: 
 - Code of Conduct
 - Contributor's Guidelines
-- Zine Librarian's Code of Ethics 
+- [Zine Librarian's Code of Ethics](http://zinelibraries.info/code-of-ethics/) 
 
 ### Get in touch
 zinecatproject@gmail.com 
