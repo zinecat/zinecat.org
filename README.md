@@ -11,14 +11,14 @@
 * [Understand the jargon]
 
 ### What are we doing? (And why?)
-There is no one central catalog (a database of library holdings) for searching and finding zines.  In the US, Worldcat.org provides access to a union catalog, but it is mostly for books, journals, and audio visual materials. Zine and zine collections are not consistently cataloged in WorldCat.	
+There is no one central catalog (a database of library holdings) for searching and finding zines.  In the US, [Worldcat.org](worldcat.org) provides access to a union catalog, but it is mostly for books, journals, and audio visual materials. Zine and zine collections are not consistently cataloged in WorldCat.	
 
 [The Zine Union Catalog](http://zinecat.org/) (ZUC) fills a gap by providing a searchable platform to discover zines and zine collections.	
 
 ### Who are we?
 We are a group of librarians, zinesters, archivists, zine collectors, zine enthusiasts, and more.  :smile_cat: **All are welcome.** :smile_cat: 
 
-For the last two years, Jenna Freedman & Lauren Kehoe have been working on the development of ZineCat through work in their MA in Digital Humanities program at the CUNY Graduate Center.
+For the last two years, Jenna Freedman & Lauren Kehoe have been working on the development of ZineCat through work in their [MA in Digital Humanities program at the CUNY Graduate Center](https://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Masters-Programs/Digital-Humanities).
 
 ### What do we need?
 - zine metadata
