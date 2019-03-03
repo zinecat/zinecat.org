@@ -2,13 +2,13 @@
 :heart_eyes_cat: (ZineCat or ZUC for short) :heart_eyes_cat:  
 
 ## On this page, you will find out:
-* [What are we doing? (And why?)](###what-are-we-doing)
-* [Who are we?](###who-are-we)
-* [What do we need?](###what-do-we-need)
-* [How can you get involved?](#get-involved)
-* [Get in touch](#contact-us)
-* [Find out more](#find-out-more)
-* [Understand the jargon](#glossary)
+* [What are we doing? (And why?)](### What are we doing? (And why?))
+* [Who are we?](### Who are we?)
+* [What do we need?](### What do we need?)
+* [How can you get involved?](### How can you get involved?)
+* [Get in touch](### Get in touch)
+* [Find out more](### Find out more)
+* [Understand the jargon](### Understand the jargon)
 
 ### What are we doing? (And why?)
 There is no one central catalog (a database of library holdings) for searching and finding zines.  In the US, Worldcat.org provides access to a union catalog, but it is mostly for books, journals, and audio visual materials. Zine and zine collections are not consistently cataloged in WorldCat.	
@@ -38,12 +38,13 @@ For the last two years, Jenna Freedman & Lauren Kehoe have been working on the d
 - make a zine
 
 ### Get in touch
-zinecatproject@gmail.com
-zinecatproject_at_gmail_dot_com
+zinecatproject@gmail.com | zinecatproject_at_gmail_dot_com
 
 ### Find out more
 Follow our blog: http://blog.zinecat.org/ 
+
 Twitter: @zinecat
+
 Facebook: @ZineUnionCatalog
 
 ### Thank you
