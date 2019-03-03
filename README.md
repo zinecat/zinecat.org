@@ -18,7 +18,7 @@ There is no one central catalog (a database of library holdings) for searching a
 ### Who are we?
 We are a group of librarians, zinesters, archivists, zine collectors, zine enthusiasts, and more.  :smile_cat: **All are welcome.** :smile_cat: 
 
-For the last two years, Jenna Freedman & Lauren Kehoe have been working on the development of ZineCat through work in their [MA in Digital Humanities program at the CUNY Graduate Center](https://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Masters-Programs/Digital-Humanities).
+For the last two years, [Jenna Freedman](http://lowereastsidelibrarian.info/) & Lauren Kehoe have been working on the development of ZineCat through work in their [MA in Digital Humanities program at the CUNY Graduate Center](https://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Masters-Programs/Digital-Humanities).
 
 ### What do we need?
 - zine metadata
