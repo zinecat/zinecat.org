@@ -38,14 +38,13 @@ For the last two years, Jenna Freedman & Lauren Kehoe have been working on the d
 - make a zine
 
 ### Get in touch
-zinecatproject@gmail.com | zinecatproject_at_gmail_dot_com
+zinecatproject@gmail.com 
 
 ### Find out more
-Follow our blog: http://blog.zinecat.org/ 
-
-Twitter: @zinecat
-
-Facebook: @ZineUnionCatalog
+Follow:
+- Blog: http://blog.zinecat.org/ 
+- Twitter: @zinecat
+- Facebook: @ZineUnionCatalog
 
 ### Thank you
 **Thank you** to all the caticorns in the universe that have already gotten involved in building the Zine Union Catalog and thank you to all the future caticorns for their contributions! :smiley_cat:
