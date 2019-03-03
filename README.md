@@ -2,13 +2,13 @@
 :heart_eyes_cat: (ZineCat or ZUC for short) :heart_eyes_cat:  
 
 ## On this page, you will find out:
-* [What are we doing? (And why?)](### What are we doing? (And why?))
-* [Who are we?](### Who are we?)
-* [What do we need?](### What do we need?)
-* [How can you get involved?](### How can you get involved?)
-* [Get in touch](### Get in touch)
-* [Find out more](### Find out more)
-* [Understand the jargon](### Understand the jargon)
+* [What are we doing? (And why?)]
+* [Who are we?]
+* [What do we need?]
+* [How can you get involved?]
+* [Get in touch]
+* [Find out more]
+* [Understand the jargon]
 
 ### What are we doing? (And why?)
 There is no one central catalog (a database of library holdings) for searching and finding zines.  In the US, Worldcat.org provides access to a union catalog, but it is mostly for books, journals, and audio visual materials. Zine and zine collections are not consistently cataloged in WorldCat.	
