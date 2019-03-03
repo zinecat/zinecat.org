@@ -1,8 +1,8 @@
 # Welcome to the Zine Union Catalog 
 :heart_eyes_cat: (ZineCat or ZUC for short) :heart_eyes_cat:  
 
-## On this page, you will find out:
-* [What are we doing? (And why?)]
+## On this page, you will find out: 
+* [What are we doing? (And why?)] 
 * [Who are we?]
 * [What do we need?]
 * [How can you get involved?]
@@ -13,9 +13,7 @@
 ### What are we doing? (And why?)
 There is no one central catalog (a database of library holdings) for searching and finding zines.  In the US, Worldcat.org provides access to a union catalog, but it is mostly for books, journals, and audio visual materials. Zine and zine collections are not consistently cataloged in WorldCat.	
 
-The Zine Union Catalog (ZUC) fills a gap by providing a searchable platform to discover zines and zine collections.	
-
-http://zinecat.org/
+[The Zine Union Catalog](http://zinecat.org/) (ZUC) fills a gap by providing a searchable platform to discover zines and zine collections.	
 
 ### Who are we?
 We are a group of librarians, zinesters, archivists, zine collectors, zine enthusiasts, and more.  :smile_cat: **All are welcome.** :smile_cat: 
@@ -37,6 +35,11 @@ For the last two years, Jenna Freedman & Lauren Kehoe have been working on the d
 - make a connection
 - make a zine
 
+Insert: 
+- Code of Conduct
+- Contributor's Guidelines
+- Zine Librarian's Code of Ethics 
+
 ### Get in touch
 zinecatproject@gmail.com 
 
@@ -54,3 +57,5 @@ Follow:
 - catalog 
 - union catalog 
 - metadata 
+- xZINECOREx
+- caticorns
