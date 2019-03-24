@@ -9,7 +9,7 @@
 
 >ZineCat is... 
 
-There is no one central catalog (a database of library holdings) for searching and finding zines. In the US, Worldcat.org(www.worldcat.org) provides access to a union catalog, but it is mostly for books, journals, and audio visual materials. Zine and zine collections are not consistently cataloged in WorldCat.
+There is no one central catalog (a database of library holdings) for searching and finding zines. In the US, [Worldcat.org](www.worldcat.org) provides access to a union catalog, but it is mostly for books, journals, and audio visual materials. Zine and zine collections are not consistently cataloged in WorldCat.
 
 The Zine Union Catalog (ZUC) fills a gap by providing a searchable platform to discover zines and zine collections.
 
