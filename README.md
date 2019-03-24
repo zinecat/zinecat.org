@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/lsrkthelibrarian/zinecat.org/blob/master/zinecat_logo.png" width="200"/>
+<img src="https://github.com/lsrkthelibrarian/zinecat.org/blob/master/zinecat_logo.png" width="300"/>
 </p>
 
 # Welcome to the Zine Union Catalog 
