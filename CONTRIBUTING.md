@@ -1,3 +1,9 @@
+<p align="center">
+<img src="https://github.com/lsrkthelibrarian/zinecat.org/blob/master/zinecat_logo.png" width="300"/>
+<h1 align="center">Contributing to The Zine Union Catalog!</h1>
+<h3 align="center">Building one catalog to search for all zines</h3>
+</p>
+
 # Contributing to The Zine Union Catalog
 
 Add a bit of welcome and cheer at the top
