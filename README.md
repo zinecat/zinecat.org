@@ -2,7 +2,7 @@
 :heart_eyes_cat: (ZineCat or ZUC for short) :heart_eyes_cat:  
 
 ## On this page, you will find out: 
-* [What are we doing? (And why?)](### What are we doing? (And why?)) 
+* [What are we doing? (And why?)](#What are we doing? (And why?)) 
 * [Who are we?]
 * [What do we need?]
 * [How can you get involved?]
