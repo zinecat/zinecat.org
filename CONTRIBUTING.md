@@ -29,11 +29,15 @@ If your guide is long, consider adding a table of contents.
 
 ## Participation guidelines
 
-This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to [EMAIL].
+This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to zinecatproject.@gmail.com.
+
+ZineCat also adheres to the [Zine Librarians Code of Ethics](http://zinelibraries.info/code-of-ethics/)
 
 ## What we're working on
 
-This is a good place to link your Roadmap, GitHub Milestones, or Projects so newcomers can see what you're working on.
+*[Roadmap](https://docs.google.com/document/d/1M8Ri4EnUeBeg2JdtllvVDaZB8HCBycg_DADQBp6TqF8/edit?usp=sharing), 
+*GitHub Milestones, 
+*Projects.
 
 > Take a look at the issues in our [current milestone](https://github.com/acabunoc/mozfest-repo-template/milestone/1) or browse some [good first bugs](https://github.com/acabunoc/mozfest-repo-template/labels/good%20first%20bug) to get started!
 
