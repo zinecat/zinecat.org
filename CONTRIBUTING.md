@@ -1,10 +1,14 @@
-# Contributing to [Project]
+# Contributing to The Zine Union Catalog
 
 Add a bit of welcome and cheer at the top
->Thank you for your interest in contributing to [Project] :tada:! 
+>Thank you for your interest in contributing to The Zine Union Catalog :tada:! 
 
 Restart your project vision here. Redundancy is your friend
->[Project] is ...
+>ZineCat is... 
+
+There is no one central catalog (a database of library holdings) for searching and finding zines. In the US, Worldcat.org provides access to a union catalog, but it is mostly for books, journals, and audio visual materials. Zine and zine collections are not consistently cataloged in WorldCat.
+
+The Zine Union Catalog (ZUC) fills a gap by providing a searchable platform to discover zines and zine collections.
 
 Add some info on *why* people should read your contributor guidelines and *what* they are.
 
