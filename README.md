@@ -1,3 +1,7 @@
+<p align="left">
+<img src="https://github.com/lsrkthelibrarian/zinecat.org/blob/master/zinecat_logo.png" width="150"/>
+</p>
+
 # Welcome to the Zine Union Catalog 
 :heart_eyes_cat: (ZineCat or ZUC for short) :heart_eyes_cat:  
 
