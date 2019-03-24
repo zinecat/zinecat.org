@@ -2,10 +2,10 @@
 :heart_eyes_cat: (ZineCat or ZUC for short) :heart_eyes_cat:  
 
 ## On this page, you will find out: 
-* [What are we doing? (And why?)](#What-are-we-doing-and-why) 
-* [Who are we?](#who-are-we)
-* [What do we need?](#what-do-we-need)
-* [How can you get involved?](#how-can-you-get-involved)
+* [What are we doing and why](#What-are-we-doing-and-why) 
+* [Who are we](#who-are-we)
+* [What do we need](#what-do-we-need)
+* [How can you get involved](#how-can-you-get-involved)
 * [Get in touch](#get-in-touch)
 * [Find out more](find-out-more)
 * [Thank you](#thank-you)
