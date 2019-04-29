@@ -42,7 +42,7 @@ For the last two years, [Jenna Freedman](http://lowereastsidelibrarian.info/) & 
 
 Please read our: 
 - Roadmap
-- Code of Conduct
+- [Code of Conduct](https://github.com/lsrkthelibrarian/zinecat.org/blob/master/CODE_OF_CONDUCT.md)
 - Contributor's Guidelines
 - [Zine Librarian's Code of Ethics](http://zinelibraries.info/code-of-ethics/) 
 
