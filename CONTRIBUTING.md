@@ -17,7 +17,7 @@ The Zine Union Catalog (ZUC) fills a gap by providing a searchable platform to d
 <img align="right" width="300" height="300" src="https://github.com/lsrkthelibrarian/zinecat.org/blob/master/Paw_Fav_Icon.png">
 >ZineCat is for everyone as zines are for everyone.  Zine creators are empowered and motivated to share knowledge, often outsdie of traditional or mainstream communication channels.  The zine culture is a do-it-yourself (DIY), anarchopunk, give a voice to the marginalized and we want you to get involved.  Contributing to ZineCat could make a difference to the world!   
 
->This documents is a set of guidelines for contributing to The Zine Union Catalog on GitHub. These are guidelines, not rules. This guide is meant to make it easy for you to get involved.
+>This document is a set of guidelines for contributing to The Zine Union Catalog on GitHub. These are guidelines, not rules. This guide is meant to make it easy for you to get involved.
 
 If your guide is long, consider adding a table of contents.
 
