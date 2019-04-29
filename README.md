@@ -41,9 +41,9 @@ For the last two years, [Jenna Freedman](http://lowereastsidelibrarian.info/) & 
 - make a zine
 
 Please read our: 
-- Roadmap
+- [Roadmap](https://docs.google.com/document/d/1M8Ri4EnUeBeg2JdtllvVDaZB8HCBycg_DADQBp6TqF8/edit)
 - [Code of Conduct](https://github.com/lsrkthelibrarian/zinecat.org/blob/master/CODE_OF_CONDUCT.md)
-- Contributor's Guidelines
+- [Contributor's Guidelines](https://github.com/lsrkthelibrarian/zinecat.org/blob/master/CONTRIBUTING.md)
 - [Zine Librarian's Code of Ethics](http://zinelibraries.info/code-of-ethics/) 
 
 ### Get in touch
