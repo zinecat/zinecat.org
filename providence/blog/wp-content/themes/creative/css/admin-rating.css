@@ -1,0 +1,38 @@
+.notice-box {
+    background: #77af3d !important;
+    color: #fff;
+}
+.notice-box1 {
+    background: #009688 !important;
+    color: #fff;
+}
+.notice-box p, .notice-box1 p {
+    font-weight: bold;
+    font-size: 16px;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.5);
+	padding: 10px;
+}
+.notice-box {
+    box-shadow: 2px 4px 4px #888888 !important;
+}
+.notice-box.notice-success.is-dismissible.flat_responsive_notice {
+    border-left: 3px solid #ed1a19;
+}
+a.rateme {
+    background: #ed1a1ac7;
+    text-decoration: none;
+    color: #fff;
+    font-size: 15px;
+    padding: 2px;
+    border-radius: 5px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+a.dismiss {
+	background: #ed1a1ac7;
+    text-decoration: none;
+    color: #fff;
+    font-size: 15px;
+    padding: 2px;
+    border-radius: 5px;
+}

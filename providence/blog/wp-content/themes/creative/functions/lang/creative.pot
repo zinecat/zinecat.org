@@ -1,0 +1,344 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Creative\n"
+"POT-Creation-Date: 2015-11-20 13:12+0530\n"
+"PO-Revision-Date: 2015-11-20 13:13+0530\n"
+"Last-Translator: \n"
+"Language-Team: weblizar\n"
+"Language: en_IN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.1\n"
+"X-Poedit-Basepath: ../\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: ../..\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../class-tgm-plugin-activation.php:333
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:334
+msgid "Install Plugins"
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:335
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:336
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:397
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:398
+msgid "Return to the dashboard"
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:399
+#: ../class-tgm-plugin-activation.php:3029
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:400
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:401
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:402
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:403
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:404
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:405
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:2167
+msgid "Required"
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:2170
+msgid "Recommended"
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:2186
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:2189
+msgid "External Source"
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:2192
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:2209
+msgid "Not Installed"
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:2213
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:2215
+msgid "Active"
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:2221
+msgid "Required Update not Available"
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:2224
+msgid "Requires Update"
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:2227
+msgid "Update recommended"
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:2379
+msgid "Installed version:"
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:2387
+msgid "Minimum required version:"
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:2399
+msgid "Available version:"
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:2422
+#, php-format
+msgid ""
+"No plugins to install, update or activate. <a href=\"%1$s\">Return to the "
+"Dashboard</a>"
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:2436
+msgid "Plugin"
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:2437
+msgid "Source"
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:2438
+msgid "Type"
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:2442
+msgid "Version"
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:2443
+msgid "Status"
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:2603
+msgid "Install"
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:2609
+msgid "Update"
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:2612
+msgid "Activate"
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:2643
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:2645
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:2681
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:2683
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:3028
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:3362
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:3364
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:3365
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:3369
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:3370
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:3371
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:3372
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:3375
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:3377
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:3378
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../menu/default_menu_walker.php:17
+msgid "Home"
+msgstr ""
+
+#: ../theme-page/admin.php:5
+msgid "Creative"
+msgstr ""
+
+#: ../theme-page/admin.php:5
+msgid "Theme Info"
+msgstr ""
+
+#: ../theme-page/admin.php:18
+#, php-format
+msgid "Welcome to %1s %2s"
+msgstr ""
+
+#: ../theme-page/admin.php:22
+msgid "Important Links:"
+msgstr ""
+
+#: ../theme-page/admin.php:24
+msgid "Support Center"
+msgstr ""
+
+#: ../theme-page/admin.php:25
+msgid "Rate this theme"
+msgstr ""
+
+#: ../theme-page/admin.php:30
+#, php-format
+msgid "Getting Started with %s"
+msgstr ""
+
+#: ../theme-page/admin.php:34
+msgid "1. Guide"
+msgstr ""
+
+#: ../theme-page/admin.php:35
+msgid ""
+"A. To enable HomePage please go to Settings >> Reading and checked A static "
+"page check-box and select front page from options. Now Edit the selected "
+"page and on right hand side of editor, Select Template as HOME in Page "
+"Attributes Section."
+msgstr ""
+
+#: ../theme-page/admin.php:36
+msgid ""
+"B. The creative theme support post slider by default. This slider get last "
+"three posts thumbnails"
+msgstr ""
+
+#: ../theme-page/admin.php:37
+msgid ""
+"C. Theme recommends  Ultimate Responsive Image Slider plugin for slider. "
+"With this plugin you can add unlimited slides in slider. Please Install this "
+"plugin and activate it in Customize >>Theme General Options."
+msgstr ""
+
+#: ../theme-page/admin.php:40
+msgid "2. Front Page Customization"
+msgstr ""
+
+#: ../theme-page/admin.php:41
+#, php-format
+msgid ""
+"%s supports the Theme Customizer for all Front Page settings. Click "
+"\"Customize Theme\" to open the Customizer now."
+msgstr ""
+
+#: ../theme-page/admin.php:43
+msgid "Customize Theme"
+msgstr ""
+
+#: ../theme-page/admin.php:47
+msgid "Upgrade to Premium"
+msgstr ""
+
+#: ../theme-page/admin.php:48
+msgid ""
+"Need more features and options? Check out the Premium Version of this theme "
+"which comes with additional features and advanced customization options for "
+"your website."
+msgstr ""
+
+#: ../theme-page/admin.php:50
+msgid "Learn more about the Premium Version"
+msgstr ""
+
+#: ../theme-page/admin.php:55
+msgid "Theme Screenshot"
+msgstr ""
+
+#: ../theme-page/admin.php:61
+#, php-format
+msgid ""
+"%1s is proudly brought to you by %2s. If you like this WordPress theme, %3s."
+msgstr ""
+
+#: ../theme-page/admin.php:64
+msgid "rate it"
+msgstr ""

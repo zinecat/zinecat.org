@@ -1,0 +1,65 @@
+/*Cutomizer CSS*/
+
+
+#customize-controls [id*="creative_theme_option"] > h3:before {
+    content: '\f0ad';
+    font-family: fontawesome;
+    padding-right: 5px;
+}
+
+.stitched {
+   padding: 20px;
+   margin: 10px;
+   background: #558a9a;
+   color: #fff;
+   font-size: 17px;
+   font-weight: bold;
+   line-height: 1.3em;
+   border: 2px dashed #fff;
+   border-radius: 10px;
+   box-shadow: 0 0 0 4px #558a9a, 2px 1px 6px 4px rgba(10, 10, 0, 0.5);
+   text-shadow: -1px -1px #aa3030;
+   font-weight: normal;
+}
+
+#accordion-section-creative_pro h3.accordion-section-title{
+	background: #59ab02;
+	color:#fff;
+	
+}
+.btn-lg, .btn-group-lg > .btn {
+  padding: 10px 16px;
+  font-size: 18px;
+  line-height: 1.33;
+  border-radius: 6px;
+}
+
+.upsell-enigma{
+float:none;
+margin-left: 20px;
+}
+.btn-success {
+  color: #fff;
+  background-color: #59ab02;
+  border-color: #4cae4c;
+}
+.btn {
+  display: inline-block;
+  padding: 6px 12px;
+  margin-bottom: 0;
+  font-size: 14px;
+  font-weight: normal;
+  line-height: 1.42857143;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: middle;
+  cursor: pointer;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  background-image: none;
+  border: 1px solid transparent;
+  border-radius: 4px;
+}
+.upsell-btn a:hover {color:#fff;}

@@ -1,0 +1,141 @@
+ /*Green Color #59ab02 & #82dc23 */
+.btn:focus, .subscribe-btn, .progress .progress-bar, .accordionMod .panel-heading .current, #current:after, .tp-leftarrow.default:hover, .tp-rightarrow.default:hover, .contact-box:hover, .ch-info-wrap, .ch-info .ch-info-back, .content-box-about .ch-info-front, figure.effect-zoe figcaption, h2.form-signin-heading, a.prev,a.next, a.prev,a.next {
+    background: #59ab02;
+}
+.pagination > .active > a, .pagination > .active > span, .pagination > .active > a:hover, .pagination > .active > span:hover, .pagination > .active > a:focus, .pagination > .active > span:focus, .pager li > a:hover, .pager li > a:focus, .navbar-toggle i, .cn-wrapper li a, .cn-wrapper:after, #not-found i, #options li a.selected {
+    background-color: #59ab02;
+    color: #fff;
+}
+.spinner {
+    border-top-color: #59ab02;
+}
+.hero {
+    border-left-color: #59ab02;
+}
+#options li a.selected {
+	border: 1px solid #59ab02;
+}
+.ie8 .btn-color, .ie9 .btn-color {
+	background: #59ab02 !important;
+}
+.ie8 .btn-color:hover, .ie9 .btn-color:hover {
+	background: #59ab02 !important;
+}
+.btn-color:hover {
+    color: #fff !important;
+    background-color: #82dc23 !important;
+    border-color: #82dc23 !important;
+}
+.sidebar-nav li.active:hover {
+    background-color: #82dc23 !important;
+}
+.btn-color {
+    color: #fff !important;
+	background-color: #59ab02 !important;
+    border-color: #59ab02 !important;
+}
+#current,.menu ul li a:hover,.menu ul>li:hover>a, h2.form-signin-heading {
+	border-bottom: 3px solid #59ab02 !important;
+}
+ul.why li:before {
+    background: #59ab02;
+}
+#horizontal-tabs ul.tabs li.current {
+    border-top: 2px solid #59ab02;
+}
+#vertical-tabs ul.tabs li.current {
+    border-left: 2px solid #59ab02;
+}
+#footer #horizontal-tabs ul.tabs li.current {
+    border-top: 2px solid #59ab02;
+}
+#footer #vertical-tabs ul.tabs li.current {
+    border-left: 2px solid #59ab02;
+}
+.author-content, div.content-box.big, #cn-tabs .service, .comment-des, .contact-box {
+}
+a, .post-item h4 a:hover, .cn-wrapper li a:hover, .cn-wrapper li a.active, .color, ul.list.icons li i, #current, #current span, .menu ul > li > a:hover, .menu ul > li > a:hover span, #not-found h2, .bx-wrapper .bx-controls-direction a i, .pagination > li > a, .pagination > li > span, .phone-login a:hover, .price, .random-box-icon {
+    color: #59ab02;
+}
+.testimonial p, blockquote {
+	border-left: 5px solid #59ab02;
+    border-right: 5px solid #59ab02;
+}
+.pricing_plan h3, .pricing_plan.special h3, .sidebar-nav li.active, .sidebar-nav li:hover, .btn.btn-shopping-cart .fa {
+    background-color: #59ab02;
+}
+.pattern-overlay {
+    background-color: rgba(89, 171, 2, 0.75);
+}
+.subscribe-btn {
+    background: #82dc23 !important;
+}
+/* Edited by imran */
+.dropdown-menu > .active > a, .dropdown-menu > .active > a:hover, .dropdown-menu > .active > a:focus{
+background-image: linear-gradient(to bottom, #59ab02 0%, #59ab02 100%);
+background-color:#59AB02;
+}
+/* Edited by harish */
+.demo-2 .sl-slider blockquote cite {
+	background-color: #59AB02;
+}
+#searchsubmit{
+	background: none repeat scroll 0 0 #59AB02 !important;
+}
+.pager a {
+    background-image: linear-gradient(to bottom, #fff 50%, #59AB02 50%);
+	color: #59AB02;
+}
+#wp-calendar caption {
+    background-color: #59AB02;
+	border: 1px solid #59AB02;
+}
+.posts-block p > a{
+	color: #59AB02;
+}
+.posts-block p > a:hover {
+	background-image: linear-gradient(to bottom, #fff 50%, #59AB02 50%);
+}
+.pager a:hover, .pager a.active {
+    background-color: #59AB02;
+}
+.product-block .pav-colorbox:hover {
+    background-color: #59ab02;
+}
+.product-label {
+	border-top: 46px solid #59ab02;
+}
+.dropcaps {
+	color: #59AB02;
+}
+#creative_send_button {
+    background-color: #59ab02 !important;
+    border-color: #59ab02 !important;
+}
+.menu ul li.active a{
+	color: #59ab02 !important;
+	border-bottom: 3px solid #59ab02 !important;
+}
+.menu ul.dropdown-menu li a{
+	color: #59ab02 !important;
+	border-bottom: none !important;
+}
+.menu ul > li > a, .menu ul.dropdown-menu > li > a{
+	color: #4d5258 !important;
+}
+.menu ul.dropdown-menu > li.active > a{
+	color: #fff !important;
+}
+#footer #horizontal-tabs ul.tabs li,
+#footer #vertical-tabs ul.tabs li{
+	color: #59AB02 !important;
+}
+#footer table#wp-calendar td a{
+	color: #283043 !important;
+}
+.pagination > li > a:hover{
+	background-color: #59AB02;
+}
+.content h2 a, .masonry h4 a{
+	color: #283043 !important;
+}

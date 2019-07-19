@@ -1,0 +1,10 @@
+2017-03-27 13:35:26 - ERROR --> [%] Could not add preferred label to ca_objects. Record was deleted because no preferred label could be applied:  Name must be at least 1 characters
+2017-03-27 13:35:27 - ALERT --> Import stopped due to import error policy stop
+2017-03-27 13:41:42 - ERROR --> [%] Could not add preferred label to ca_objects. Record was deleted because no preferred label could be applied:  Name must be at least 1 characters
+2017-03-27 13:41:42 - ALERT --> Import stopped due to import error policy stop
+2017-03-27 13:54:09 - ERROR --> [%] Could not add preferred label to ca_objects. Record was deleted because no preferred label could be applied:  Name must be at least 1 characters
+2017-03-27 13:54:09 - ALERT --> Import stopped due to import error policy stop
+2017-03-27 13:57:11 - ERROR --> [%] Could not add preferred label to ca_objects. Record was deleted because no preferred label could be applied:  Name must be at least 1 characters
+2017-03-27 13:57:12 - ALERT --> Import stopped due to import error policy stop
+2017-03-27 14:06:36 - ERROR --> [%] Invalid date; values were dates_value = 1992 – 1993; locale_id = 1:  Date is invalid
+2017-03-27 14:07:20 - ERROR --> [%] Invalid date; values were dates_value = Los Angeles, CA; locale_id = 1:  Date is invalid

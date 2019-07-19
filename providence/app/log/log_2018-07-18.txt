@@ -1,0 +1,111 @@
+2018-07-18 23:46:04 - ERROR --> Could not insert collection : Type must be specified
+2018-07-18 23:46:04 - ERROR --> Could not insert collection : Type must be specified
+2018-07-18 23:46:04 - ERROR --> Could not insert collection : Type must be specified
+2018-07-18 23:46:04 - ERROR --> [%] Failed to add value for coverage; values were coverage = 2; locale_id = 1:  Cannot add another value; only 1 value is allowed
+2018-07-18 23:46:04 - ERROR --> Could not insert collection : Type must be specified
+2018-07-18 23:46:05 - ERROR --> Could not insert collection : Type must be specified
+2018-07-18 23:46:05 - ERROR --> Could not insert collection : Type must be specified
+2018-07-18 23:46:05 - ERROR --> Could not insert collection : Type must be specified
+2018-07-18 23:46:05 - ERROR --> [%] Failed to add value for coverage; values were coverage = 2; locale_id = 1:  Cannot add another value; only 1 value is allowed
+2018-07-18 23:46:05 - ERROR --> Could not insert collection : Type must be specified
+2018-07-18 23:46:05 - ERROR --> Could not insert collection : Type must be specified
+2018-07-18 23:46:06 - ERROR --> Could not insert collection : Type must be specified
+2018-07-18 23:46:06 - ERROR --> Could not insert collection : Type must be specified
+2018-07-18 23:46:06 - ERROR --> Could not insert collection : Type must be specified
+2018-07-18 23:46:06 - ERROR --> Could not insert collection : Type must be specified
+2018-07-18 23:46:06 - ERROR --> Could not insert collection : Type must be specified
+2018-07-18 23:46:07 - ERROR --> Could not insert collection : Type must be specified
+2018-07-18 23:46:07 - ERROR --> Could not insert collection : Type must be specified
+2018-07-18 23:46:07 - ERROR --> Could not insert collection : Type must be specified
+2018-07-18 23:46:07 - ERROR --> Could not insert collection : Type must be specified
+2018-07-18 23:46:07 - ERROR --> Could not insert collection : Type must be specified
+2018-07-18 23:46:07 - ERROR --> Could not insert collection : Type must be specified
+2018-07-18 23:46:08 - ERROR --> Could not insert collection : Type must be specified
+2018-07-18 23:46:08 - ERROR --> Could not insert collection : Type must be specified
+2018-07-18 23:46:08 - ERROR --> Could not insert collection : Type must be specified
+2018-07-18 23:46:08 - ERROR --> Could not insert collection : Type must be specified
+2018-07-18 23:46:08 - ERROR --> Could not insert collection : Type must be specified
+2018-07-18 23:46:09 - ERROR --> Could not insert collection : Type must be specified
+2018-07-18 23:46:09 - ERROR --> Could not insert collection : Type must be specified
+2018-07-18 23:46:09 - ERROR --> Could not insert collection : Type must be specified
+2018-07-18 23:46:09 - ERROR --> Could not insert collection : Type must be specified
+2018-07-18 23:46:09 - ERROR --> [%] Failed to add value for coverage; values were coverage = 2; locale_id = 1:  Cannot add another value; only 1 value is allowed
+2018-07-18 23:46:09 - ERROR --> Could not insert collection : Type must be specified
+2018-07-18 23:46:09 - ERROR --> Could not insert collection : Type must be specified
+2018-07-18 23:46:10 - ERROR --> Could not insert collection : Type must be specified
+2018-07-18 23:47:39 - ERROR --> Could not insert entity : Type must be specified
+2018-07-18 23:47:39 - ERROR --> Could not insert collection : Type must be specified
+2018-07-18 23:47:39 - ERROR --> [%] Failed to add value for coverage; values were coverage = New Brunswick; locale_id = 1:  Cannot add another value; only 1 value is allowed
+2018-07-18 23:47:39 - ERROR --> Could not insert entity : Type must be specified
+2018-07-18 23:47:39 - ERROR --> Could not insert collection : Type must be specified
+2018-07-18 23:47:40 - ERROR --> Could not insert entity : Type must be specified
+2018-07-18 23:47:40 - ERROR --> Could not insert collection : Type must be specified
+2018-07-18 23:47:40 - ERROR --> Could not insert entity : Type must be specified
+2018-07-18 23:47:40 - ERROR --> Could not insert collection : Type must be specified
+2018-07-18 23:47:40 - ERROR --> Could not insert entity : Type must be specified
+2018-07-18 23:47:40 - ERROR --> Could not insert collection : Type must be specified
+2018-07-18 23:47:40 - ERROR --> [%] Failed to add value for coverage; values were coverage = New Brunswick; locale_id = 1:  Cannot add another value; only 1 value is allowed
+2018-07-18 23:47:40 - ERROR --> Could not insert entity : Type must be specified
+2018-07-18 23:47:40 - ERROR --> Could not insert collection : Type must be specified
+2018-07-18 23:47:41 - ERROR --> Could not insert entity : Type must be specified
+2018-07-18 23:47:41 - ERROR --> Could not insert collection : Type must be specified
+2018-07-18 23:47:41 - ERROR --> Could not insert entity : Type must be specified
+2018-07-18 23:47:41 - ERROR --> Could not insert collection : Type must be specified
+2018-07-18 23:47:41 - ERROR --> Could not insert entity : Type must be specified
+2018-07-18 23:47:41 - ERROR --> Could not insert collection : Type must be specified
+2018-07-18 23:47:41 - ERROR --> Could not insert entity : Type must be specified
+2018-07-18 23:47:41 - ERROR --> Could not insert collection : Type must be specified
+2018-07-18 23:47:42 - ERROR --> Could not insert entity : Type must be specified
+2018-07-18 23:47:42 - ERROR --> Could not insert collection : Type must be specified
+2018-07-18 23:47:42 - ERROR --> Could not insert entity : Type must be specified
+2018-07-18 23:47:42 - ERROR --> Could not insert collection : Type must be specified
+2018-07-18 23:47:42 - ERROR --> Could not insert entity : Type must be specified
+2018-07-18 23:47:42 - ERROR --> Could not insert collection : Type must be specified
+2018-07-18 23:47:42 - ERROR --> Could not insert entity : Type must be specified
+2018-07-18 23:47:42 - ERROR --> Could not insert collection : Type must be specified
+2018-07-18 23:47:43 - ERROR --> Could not insert entity : Type must be specified
+2018-07-18 23:47:43 - ERROR --> Could not insert collection : Type must be specified
+2018-07-18 23:47:43 - ERROR --> [%] Failed to add value for coverage; values were coverage = Woodland Hills; locale_id = 1:  Cannot add another value; only 1 value is allowed
+2018-07-18 23:47:43 - ERROR --> Could not insert entity : Type must be specified
+2018-07-18 23:47:43 - ERROR --> Could not insert collection : Type must be specified
+2018-07-18 23:47:43 - ERROR --> Could not insert entity : Type must be specified
+2018-07-18 23:47:43 - ERROR --> Could not insert collection : Type must be specified
+2018-07-18 23:47:44 - ERROR --> Could not insert entity : Type must be specified
+2018-07-18 23:47:44 - ERROR --> Could not insert collection : Type must be specified
+2018-07-18 23:47:44 - ERROR --> Could not insert entity : Type must be specified
+2018-07-18 23:47:44 - ERROR --> Could not insert collection : Type must be specified
+2018-07-18 23:47:44 - ERROR --> [%] Failed to add value for coverage; values were coverage = Berkeley; locale_id = 1:  Cannot add another value; only 1 value is allowed
+2018-07-18 23:47:44 - ERROR --> Could not insert entity : Type must be specified
+2018-07-18 23:47:44 - ERROR --> Could not insert collection : Type must be specified
+2018-07-18 23:47:44 - ERROR --> [%] Failed to add value for coverage; values were coverage = Berkeley; locale_id = 1:  Cannot add another value; only 1 value is allowed
+2018-07-18 23:47:44 - ERROR --> Could not insert entity : Type must be specified
+2018-07-18 23:47:44 - ERROR --> Could not insert collection : Type must be specified
+2018-07-18 23:47:45 - ERROR --> [%] Failed to add value for coverage; values were coverage = Berkeley; locale_id = 1:  Cannot add another value; only 1 value is allowed
+2018-07-18 23:47:45 - ERROR --> Could not insert entity : Type must be specified
+2018-07-18 23:47:45 - ERROR --> Could not insert collection : Type must be specified
+2018-07-18 23:47:45 - ERROR --> Could not insert entity : Type must be specified
+2018-07-18 23:47:45 - ERROR --> Could not insert collection : Type must be specified
+2018-07-18 23:47:45 - ERROR --> Could not insert entity : Type must be specified
+2018-07-18 23:47:45 - ERROR --> Could not insert collection : Type must be specified
+2018-07-18 23:47:45 - ERROR --> [%] Failed to add value for coverage; values were coverage = New Brunswick; locale_id = 1:  Cannot add another value; only 1 value is allowed
+2018-07-18 23:47:45 - ERROR --> Could not insert entity : Type must be specified
+2018-07-18 23:47:45 - ERROR --> Could not insert collection : Type must be specified
+2018-07-18 23:47:45 - ERROR --> Could not insert entity : Type must be specified
+2018-07-18 23:47:45 - ERROR --> Could not insert collection : Type must be specified
+2018-07-18 23:47:45 - ERROR --> [%] Failed to add value for coverage; values were coverage = New York; locale_id = 1:  Cannot add another value; only 1 value is allowed
+2018-07-18 23:47:46 - ERROR --> Could not insert entity : Type must be specified
+2018-07-18 23:47:46 - ERROR --> Could not insert collection : Type must be specified
+2018-07-18 23:47:46 - ERROR --> [%] Failed to add value for coverage; values were coverage = New York; locale_id = 1:  Cannot add another value; only 1 value is allowed
+2018-07-18 23:47:46 - ERROR --> Could not insert entity : Type must be specified
+2018-07-18 23:47:46 - ERROR --> Could not insert collection : Type must be specified
+2018-07-18 23:47:46 - ERROR --> Could not insert entity : Type must be specified
+2018-07-18 23:47:46 - ERROR --> Could not insert collection : Type must be specified
+2018-07-18 23:47:46 - ERROR --> Could not insert entity : Type must be specified
+2018-07-18 23:47:46 - ERROR --> Could not insert collection : Type must be specified
+2018-07-18 23:47:46 - ERROR --> [%] Failed to add value for coverage; values were coverage = Arcata; locale_id = 1:  Cannot add another value; only 1 value is allowed
+2018-07-18 23:47:46 - ERROR --> Could not insert entity : Type must be specified
+2018-07-18 23:47:46 - ERROR --> Could not insert collection : Type must be specified
+2018-07-18 23:47:47 - ERROR --> Could not insert entity : Type must be specified
+2018-07-18 23:47:47 - ERROR --> Could not insert collection : Type must be specified
+2018-07-18 23:47:47 - ERROR --> Could not insert entity : Type must be specified
+2018-07-18 23:47:47 - ERROR --> Could not insert collection : Type must be specified

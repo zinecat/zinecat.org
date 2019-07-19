@@ -1,0 +1,44 @@
+<phpunit xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:noNamespaceSchemaLocation="http://schema.phpunit.de/3.7/phpunit.xsd"
+         backupGlobals="false"
+         backupStaticAttributes="false"
+         cacheTokens="false"
+         colors="false"
+         convertErrorsToExceptions="true"
+         convertNoticesToExceptions="true"
+         convertWarningsToExceptions="true"
+         forceCoversAnnotation="false"
+         mapTestClassNameToCoveredClassName="false"
+         processIsolation="false"
+         stopOnError="false"
+         stopOnFailure="false"
+         stopOnIncomplete="false"
+         stopOnSkipped="false"
+         strict="false"
+         bootstrap="./setup-tests.php"
+         verbose="false">
+
+  <testsuites>
+    <testsuite name="Helpers Test Suite">
+      <directory>helpers/</directory>
+    </testsuite>
+    <testsuite name="Lib Test Suite">
+      <directory>lib/</directory>
+      <exclude>lib/core/Search/ElasticSearch</exclude>
+    </testsuite>
+    <testsuite name="Models Test Suite">
+      <directory>models/</directory>
+    </testsuite>
+    <testsuite name="Plugins Test Suite">
+      <directory>plugins/</directory>
+    </testsuite>
+    <testsuite name="Tests With Data Suite">
+      <directory>testsWithData/</directory>
+    </testsuite>
+    <testsuite name="Install Test Suite">
+      <directory>install/</directory>
+      <exclude>install/ConfigurationUpdateTest.php</exclude>
+    </testsuite>
+  </testsuites>
+
+</phpunit>

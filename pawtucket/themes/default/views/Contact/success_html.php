@@ -1,0 +1,2 @@
+<H1><?php print _t("Contact"); ?></H1>
+<h2><?php print _t("Your message has been sent. <br>If you don't get a response in 24 hours, please send an e-mail directly to zucadmin@zinecat.org or contact us through our social media."); ?></H2>

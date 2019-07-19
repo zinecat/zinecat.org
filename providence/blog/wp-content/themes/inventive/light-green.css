@@ -1,0 +1,126 @@
+.logo h1 a {
+    color: rgba(42, 163, 135, 0.8) !important;
+}
+.pattern-overlay {
+    background-color: rgba(42, 163, 135, 0.8) !important;
+}
+a
+{
+	color:#009688 !important;
+}
+.footer-bottom {
+    background: #9E9E9E !important;
+    color: #fff;
+    line-height: 30px;
+}
+#searchsubmit {
+    background: none repeat scroll 0 0 #9E9E9E !important;
+}
+.menu ul > li > a, .menu ul.dropdown-menu > li > a {
+    color: #009688 !important;
+}
+body {
+    color: #009688 !important;
+    font-family: "Open Sans",Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    line-height: 24px;
+    overflow-x: hidden;
+}
+.post-content p
+{
+	color:black !important;
+}
+
+.content h3, .latest-posts h4 a {
+    color: #009688 !important;
+}
+.content h2 a, .masonry h4 a{
+	color: #009688 !important;
+}
+.btn-color {
+    color: #fff !important;
+    background-color: #009688 !important;
+    border-color: #009688 !important;
+}
+.btn-color:hover
+ {
+    color: #fff !important;
+    background-color: rgba(0, 150 , 136 , 0.52) !important;
+    border-color: #009688 !important;
+}
+.pager a {
+    background-image: linear-gradient(to bottom, #fff 50%, #009688 50%) !important;
+    color: #009688 !important;
+}
+.posts-block p > a:hover {
+	background-image: linear-gradient(to bottom, #fff 10%, rgba(0, 150, 136, 0.37) 10%) !important;
+}
+.star-divider-icon i {
+    background: none repeat scroll 0 0 #FFFFFF;
+    border-radius: 100px;
+    color: #009688 !important;
+    font-size: 18px;
+    padding: 11px;
+    position: relative;
+    top: 19px;
+}
+.random-box-icon {
+    color: red !important;
+}
+#current,.menu ul li a:hover,.menu ul>li:hover>a, h2.form-signin-heading {
+	border-bottom: 3px solid #009688 !important;
+}
+.phone-login a, .phone-login i {
+    color: rgba(0, 150, 96, 0.87) !important;
+}
+header .social i, footer .social i {
+    color: rgba(0, 150, 96, 0.87) !important;
+    
+}
+.slogan-content h2{
+    color: white !important;
+}
+h2
+{
+	color:white !important;
+}
+figure.effect-zoe figcaption {
+    background: #009688 !important;
+}
+.grid figure h2 span {
+    font-weight: 800;
+    color: white !important;
+}
+figure.effect-zoe p {
+    color: #009688 !important;
+}
+.ch-info-wrap i {
+    color: #fff !important;    
+}
+
+.ch-info-wrap {
+    background: #009688 !important;    
+}
+.main-content h3 {
+    color: #009688 !important;
+    line-height: 32px;
+    margin: 0 0 5px;
+}
+div.content-box.big div.content-box-info p {
+    color: black !important;
+}
+.post-meta-content i {
+    font-size: 16px;
+    color: #009688 !important;
+}
+.post-meta-link {
+    color: #009688 !important;
+}
+h2.title
+{
+	color:white !important;
+}
+.bounceIn
+{
+	color:#009688 !important;
+}

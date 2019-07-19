@@ -1,0 +1,176 @@
+2018-07-19 22:31:05 - ERROR --> [%] Failed to add value for coverage; values were coverage = 2; locale_id = 1:  Cannot add another value; only 1 value is allowed
+2018-07-19 22:31:06 - ERROR --> [%] Failed to add value for coverage; values were coverage = 2; locale_id = 1:  Cannot add another value; only 1 value is allowed
+2018-07-19 22:31:10 - ERROR --> [%] Failed to add value for coverage; values were coverage = 2; locale_id = 1:  Cannot add another value; only 1 value is allowed
+2018-07-19 22:33:59 - ERROR --> [%] Failed to add value for coverage; values were coverage = New Brunswick; locale_id = 1:  Cannot add another value; only 1 value is allowed
+2018-07-19 22:33:59 - ERROR --> Could not insert entity : Type must be specified
+2018-07-19 22:33:59 - ERROR --> [%] Failed to add value for coverage; values were coverage = New Brunswick; locale_id = 1:  Cannot add another value; only 1 value is allowed
+2018-07-19 22:33:59 - ERROR --> Could not insert entity : Type must be specified
+2018-07-19 22:33:59 - ERROR --> [%] Failed to add value for coverage; values were coverage = Little Rock; locale_id = 1:  Cannot add another value; only 1 value is allowed
+2018-07-19 22:33:59 - ERROR --> Could not insert entity : Type must be specified
+2018-07-19 22:33:59 - ERROR --> [%] Failed to add value for coverage; values were coverage = Durham; locale_id = 1:  Cannot add another value; only 1 value is allowed
+2018-07-19 22:33:59 - ERROR --> Could not insert entity : Type must be specified
+2018-07-19 22:33:59 - ERROR --> [%] Failed to add value for coverage; values were coverage = New Brunswick; locale_id = 1:  Cannot add another value; only 1 value is allowed
+2018-07-19 22:34:00 - ERROR --> Could not insert entity : Type must be specified
+2018-07-19 22:34:00 - ERROR --> [%] Failed to add value for coverage; values were coverage = New Brunswick; locale_id = 1:  Cannot add another value; only 1 value is allowed
+2018-07-19 22:34:00 - ERROR --> Could not insert entity : Type must be specified
+2018-07-19 22:34:00 - ERROR --> [%] Failed to add value for coverage; values were coverage = Managua; locale_id = 1:  Cannot add another value; only 1 value is allowed
+2018-07-19 22:34:00 - ERROR --> Could not insert entity : Type must be specified
+2018-07-19 22:34:00 - ERROR --> [%] Failed to add value for coverage; values were coverage = Matawan; locale_id = 1:  Cannot add another value; only 1 value is allowed
+2018-07-19 22:34:00 - ERROR --> Could not insert entity : Type must be specified
+2018-07-19 22:34:00 - ERROR --> [%] Failed to add value for coverage; values were coverage = New York; locale_id = 1:  Cannot add another value; only 1 value is allowed
+2018-07-19 22:34:00 - ERROR --> Could not insert entity : Type must be specified
+2018-07-19 22:34:00 - ERROR --> [%] Failed to add value for coverage; values were coverage = Amherst; locale_id = 1:  Cannot add another value; only 1 value is allowed
+2018-07-19 22:34:00 - ERROR --> Could not insert entity : Type must be specified
+2018-07-19 22:34:00 - ERROR --> [%] Failed to add value for coverage; values were coverage = Woodbridge; locale_id = 1:  Cannot add another value; only 1 value is allowed
+2018-07-19 22:34:00 - ERROR --> Could not insert entity : Type must be specified
+2018-07-19 22:34:00 - ERROR --> [%] Failed to add value for coverage; values were coverage = Toronto; locale_id = 1:  Cannot add another value; only 1 value is allowed
+2018-07-19 22:34:00 - ERROR --> Could not insert entity : Type must be specified
+2018-07-19 22:34:00 - ERROR --> [%] Failed to add value for coverage; values were coverage = New York; locale_id = 1:  Cannot add another value; only 1 value is allowed
+2018-07-19 22:34:00 - ERROR --> Could not insert entity : Type must be specified
+2018-07-19 22:34:01 - ERROR --> [%] Failed to add value for coverage; values were coverage = Santa Rosa; locale_id = 1:  Cannot add another value; only 1 value is allowed
+2018-07-19 22:34:01 - ERROR --> Could not insert entity : Type must be specified
+2018-07-19 22:34:01 - ERROR --> [%] Failed to add value for coverage; values were coverage = Woodland Hills; locale_id = 1:  Cannot add another value; only 1 value is allowed
+2018-07-19 22:34:01 - ERROR --> Could not insert entity : Type must be specified
+2018-07-19 22:34:01 - ERROR --> [%] Failed to add value for coverage; values were coverage = Woodland Hills; locale_id = 1:  Cannot add another value; only 1 value is allowed
+2018-07-19 22:34:01 - ERROR --> Could not insert entity : Type must be specified
+2018-07-19 22:34:01 - ERROR --> [%] Failed to add value for coverage; values were coverage = Memphis; locale_id = 1:  Cannot add another value; only 1 value is allowed
+2018-07-19 22:34:01 - ERROR --> Could not insert entity : Type must be specified
+2018-07-19 22:34:01 - ERROR --> [%] Failed to add value for coverage; values were coverage = Washington, D.C.; locale_id = 1:  Cannot add another value; only 1 value is allowed
+2018-07-19 22:34:01 - ERROR --> Could not insert entity : Type must be specified
+2018-07-19 22:34:01 - ERROR --> [%] Failed to add value for coverage; values were coverage = Berkeley; locale_id = 1:  Cannot add another value; only 1 value is allowed
+2018-07-19 22:34:02 - ERROR --> Could not insert entity : Type must be specified
+2018-07-19 22:34:02 - ERROR --> [%] Failed to add value for coverage; values were coverage = Berkeley; locale_id = 1:  Cannot add another value; only 1 value is allowed
+2018-07-19 22:34:02 - ERROR --> Could not insert entity : Type must be specified
+2018-07-19 22:34:02 - ERROR --> [%] Failed to add value for coverage; values were coverage = Berkeley; locale_id = 1:  Cannot add another value; only 1 value is allowed
+2018-07-19 22:34:02 - ERROR --> Could not insert entity : Type must be specified
+2018-07-19 22:34:02 - ERROR --> [%] Failed to add value for coverage; values were coverage = Berkeley; locale_id = 1:  Cannot add another value; only 1 value is allowed
+2018-07-19 22:34:02 - ERROR --> Could not insert entity : Type must be specified
+2018-07-19 22:34:02 - ERROR --> [%] Failed to add value for coverage; values were coverage = Wisconsin Rapids; locale_id = 1:  Cannot add another value; only 1 value is allowed
+2018-07-19 22:34:02 - ERROR --> Could not insert entity : Type must be specified
+2018-07-19 22:34:02 - ERROR --> [%] Failed to add value for coverage; values were coverage = New Brunswick; locale_id = 1:  Cannot add another value; only 1 value is allowed
+2018-07-19 22:34:02 - ERROR --> Could not insert entity : Type must be specified
+2018-07-19 22:34:02 - ERROR --> [%] Failed to add value for coverage; values were coverage = New Brunswick; locale_id = 1:  Cannot add another value; only 1 value is allowed
+2018-07-19 22:34:02 - ERROR --> Could not insert entity : Type must be specified
+2018-07-19 22:34:03 - ERROR --> [%] Failed to add value for coverage; values were coverage = New York; locale_id = 1:  Cannot add another value; only 1 value is allowed
+2018-07-19 22:34:03 - ERROR --> Could not insert entity : Type must be specified
+2018-07-19 22:34:03 - ERROR --> [%] Failed to add value for coverage; values were coverage = New York; locale_id = 1:  Cannot add another value; only 1 value is allowed
+2018-07-19 22:34:03 - ERROR --> Could not insert entity : Type must be specified
+2018-07-19 22:34:03 - ERROR --> [%] Failed to add value for coverage; values were coverage = New York; locale_id = 1:  Cannot add another value; only 1 value is allowed
+2018-07-19 22:34:03 - ERROR --> Could not insert entity : Type must be specified
+2018-07-19 22:34:03 - ERROR --> [%] Failed to add value for coverage; values were coverage = Arlington; locale_id = 1:  Cannot add another value; only 1 value is allowed
+2018-07-19 22:34:03 - ERROR --> Could not insert entity : Type must be specified
+2018-07-19 22:34:03 - ERROR --> [%] Failed to add value for coverage; values were coverage = Arcata; locale_id = 1:  Cannot add another value; only 1 value is allowed
+2018-07-19 22:34:03 - ERROR --> Could not insert entity : Type must be specified
+2018-07-19 22:34:03 - ERROR --> [%] Failed to add value for coverage; values were coverage = Arcata; locale_id = 1:  Cannot add another value; only 1 value is allowed
+2018-07-19 22:34:03 - ERROR --> Could not insert entity : Type must be specified
+2018-07-19 22:34:03 - ERROR --> [%] Failed to add value for coverage; values were coverage = Baltimore; locale_id = 1:  Cannot add another value; only 1 value is allowed
+2018-07-19 22:34:03 - ERROR --> Could not insert entity : Type must be specified
+2018-07-19 22:34:03 - ERROR --> [%] Failed to add value for coverage; values were coverage = Woodbridge; locale_id = 1:  Cannot add another value; only 1 value is allowed
+2018-07-19 22:34:03 - ERROR --> Could not insert entity : Type must be specified
+2018-07-19 22:37:21 - ERROR --> [%] Failed to add value for coverage; values were coverage = New Brunswick; locale_id = 1:  Cannot add another value; only 1 value is allowed
+2018-07-19 22:37:21 - ERROR --> Could not insert entity : Type must be specified
+2018-07-19 22:37:21 - ERROR --> [%] Failed to add value for coverage; values were coverage = New Brunswick; locale_id = 1:  Cannot add another value; only 1 value is allowed
+2018-07-19 22:37:21 - ERROR --> Could not insert entity : Type must be specified
+2018-07-19 22:37:21 - ERROR --> [%] Failed to add value for coverage; values were coverage = Little Rock; locale_id = 1:  Cannot add another value; only 1 value is allowed
+2018-07-19 22:37:21 - ERROR --> Could not insert entity : Type must be specified
+2018-07-19 22:37:21 - ERROR --> [%] Failed to add value for coverage; values were coverage = Durham; locale_id = 1:  Cannot add another value; only 1 value is allowed
+2018-07-19 22:37:22 - ERROR --> Could not insert entity : Type must be specified
+2018-07-19 22:37:22 - ERROR --> [%] Failed to add value for coverage; values were coverage = New Brunswick; locale_id = 1:  Cannot add another value; only 1 value is allowed
+2018-07-19 22:37:22 - ERROR --> Could not insert entity : Type must be specified
+2018-07-19 22:37:22 - ERROR --> [%] Failed to add value for coverage; values were coverage = New Brunswick; locale_id = 1:  Cannot add another value; only 1 value is allowed
+2018-07-19 22:37:22 - ERROR --> Could not insert entity : Type must be specified
+2018-07-19 22:37:22 - ERROR --> [%] Failed to add value for coverage; values were coverage = Managua; locale_id = 1:  Cannot add another value; only 1 value is allowed
+2018-07-19 22:37:22 - ERROR --> Could not insert entity : Type must be specified
+2018-07-19 22:37:22 - ERROR --> [%] Failed to add value for coverage; values were coverage = Matawan; locale_id = 1:  Cannot add another value; only 1 value is allowed
+2018-07-19 22:37:22 - ERROR --> Could not insert entity : Type must be specified
+2018-07-19 22:37:22 - ERROR --> [%] Failed to add value for coverage; values were coverage = New York; locale_id = 1:  Cannot add another value; only 1 value is allowed
+2018-07-19 22:37:22 - ERROR --> Could not insert entity : Type must be specified
+2018-07-19 22:37:22 - ERROR --> [%] Failed to add value for coverage; values were coverage = Amherst; locale_id = 1:  Cannot add another value; only 1 value is allowed
+2018-07-19 22:37:22 - ERROR --> Could not insert entity : Type must be specified
+2018-07-19 22:37:22 - ERROR --> [%] Failed to add value for coverage; values were coverage = Woodbridge; locale_id = 1:  Cannot add another value; only 1 value is allowed
+2018-07-19 22:37:22 - ERROR --> Could not insert entity : Type must be specified
+2018-07-19 22:37:22 - ERROR --> [%] Failed to add value for coverage; values were coverage = Toronto; locale_id = 1:  Cannot add another value; only 1 value is allowed
+2018-07-19 22:37:23 - ERROR --> Could not insert entity : Type must be specified
+2018-07-19 22:37:23 - ERROR --> [%] Failed to add value for coverage; values were coverage = New York; locale_id = 1:  Cannot add another value; only 1 value is allowed
+2018-07-19 22:37:23 - ERROR --> Could not insert entity : Type must be specified
+2018-07-19 22:37:23 - ERROR --> [%] Failed to add value for coverage; values were coverage = Santa Rosa; locale_id = 1:  Cannot add another value; only 1 value is allowed
+2018-07-19 22:37:23 - ERROR --> Could not insert entity : Type must be specified
+2018-07-19 22:37:23 - ERROR --> [%] Failed to add value for coverage; values were coverage = Woodland Hills; locale_id = 1:  Cannot add another value; only 1 value is allowed
+2018-07-19 22:37:23 - ERROR --> Could not insert entity : Type must be specified
+2018-07-19 22:37:23 - ERROR --> [%] Failed to add value for coverage; values were coverage = Woodland Hills; locale_id = 1:  Cannot add another value; only 1 value is allowed
+2018-07-19 22:37:23 - ERROR --> Could not insert entity : Type must be specified
+2018-07-19 22:37:23 - ERROR --> [%] Failed to add value for coverage; values were coverage = Memphis; locale_id = 1:  Cannot add another value; only 1 value is allowed
+2018-07-19 22:37:23 - ERROR --> Could not insert entity : Type must be specified
+2018-07-19 22:37:23 - ERROR --> [%] Failed to add value for coverage; values were coverage = Washington, D.C.; locale_id = 1:  Cannot add another value; only 1 value is allowed
+2018-07-19 22:37:23 - ERROR --> Could not insert entity : Type must be specified
+2018-07-19 22:37:23 - ERROR --> [%] Failed to add value for coverage; values were coverage = Berkeley; locale_id = 1:  Cannot add another value; only 1 value is allowed
+2018-07-19 22:37:24 - ERROR --> Could not insert entity : Type must be specified
+2018-07-19 22:37:24 - ERROR --> [%] Failed to add value for coverage; values were coverage = Berkeley; locale_id = 1:  Cannot add another value; only 1 value is allowed
+2018-07-19 22:37:24 - ERROR --> Could not insert entity : Type must be specified
+2018-07-19 22:37:24 - ERROR --> [%] Failed to add value for coverage; values were coverage = Berkeley; locale_id = 1:  Cannot add another value; only 1 value is allowed
+2018-07-19 22:37:24 - ERROR --> Could not insert entity : Type must be specified
+2018-07-19 22:37:24 - ERROR --> [%] Failed to add value for coverage; values were coverage = Berkeley; locale_id = 1:  Cannot add another value; only 1 value is allowed
+2018-07-19 22:37:24 - ERROR --> Could not insert entity : Type must be specified
+2018-07-19 22:37:24 - ERROR --> [%] Failed to add value for coverage; values were coverage = Wisconsin Rapids; locale_id = 1:  Cannot add another value; only 1 value is allowed
+2018-07-19 22:37:24 - ERROR --> Could not insert entity : Type must be specified
+2018-07-19 22:37:24 - ERROR --> [%] Failed to add value for coverage; values were coverage = New Brunswick; locale_id = 1:  Cannot add another value; only 1 value is allowed
+2018-07-19 22:37:25 - ERROR --> Could not insert entity : Type must be specified
+2018-07-19 22:37:25 - ERROR --> [%] Failed to add value for coverage; values were coverage = New Brunswick; locale_id = 1:  Cannot add another value; only 1 value is allowed
+2018-07-19 22:37:25 - ERROR --> Could not insert entity : Type must be specified
+2018-07-19 22:37:25 - ERROR --> [%] Failed to add value for coverage; values were coverage = New York; locale_id = 1:  Cannot add another value; only 1 value is allowed
+2018-07-19 22:37:25 - ERROR --> Could not insert entity : Type must be specified
+2018-07-19 22:37:25 - ERROR --> [%] Failed to add value for coverage; values were coverage = New York; locale_id = 1:  Cannot add another value; only 1 value is allowed
+2018-07-19 22:37:25 - ERROR --> Could not insert entity : Type must be specified
+2018-07-19 22:37:25 - ERROR --> [%] Failed to add value for coverage; values were coverage = New York; locale_id = 1:  Cannot add another value; only 1 value is allowed
+2018-07-19 22:37:25 - ERROR --> Could not insert entity : Type must be specified
+2018-07-19 22:37:25 - ERROR --> [%] Failed to add value for coverage; values were coverage = Arlington; locale_id = 1:  Cannot add another value; only 1 value is allowed
+2018-07-19 22:37:25 - ERROR --> Could not insert entity : Type must be specified
+2018-07-19 22:37:25 - ERROR --> [%] Failed to add value for coverage; values were coverage = Arcata; locale_id = 1:  Cannot add another value; only 1 value is allowed
+2018-07-19 22:37:25 - ERROR --> Could not insert entity : Type must be specified
+2018-07-19 22:37:25 - ERROR --> [%] Failed to add value for coverage; values were coverage = Arcata; locale_id = 1:  Cannot add another value; only 1 value is allowed
+2018-07-19 22:37:26 - ERROR --> Could not insert entity : Type must be specified
+2018-07-19 22:37:26 - ERROR --> [%] Failed to add value for coverage; values were coverage = Baltimore; locale_id = 1:  Cannot add another value; only 1 value is allowed
+2018-07-19 22:37:26 - ERROR --> Could not insert entity : Type must be specified
+2018-07-19 22:37:26 - ERROR --> [%] Failed to add value for coverage; values were coverage = Woodbridge; locale_id = 1:  Cannot add another value; only 1 value is allowed
+2018-07-19 22:37:26 - ERROR --> Could not insert entity : Type must be specified
+2018-07-19 22:49:42 - ERROR --> [%] Failed to add value for coverage; values were coverage = NYC; locale_id = 1:  Cannot add another value; only 1 value is allowed
+2018-07-19 22:49:42 - ERROR --> [%] Failed to add value for coverage; values were coverage = Brooklyn, NY; locale_id = 1:  Cannot add another value; only 1 value is allowed
+2018-07-19 22:49:46 - ERROR --> [%] Failed to add value for coverage; values were coverage = Sunnyvale, Ca; locale_id = 1:  Cannot add another value; only 1 value is allowed
+2018-07-19 23:35:43 - ERROR --> [%] Failed to add value for coverage; values were coverage = New Brunswick; locale_id = 1:  Cannot add another value; only 1 value is allowed
+2018-07-19 23:35:44 - ERROR --> [%] Failed to add value for coverage; values were coverage = New Brunswick; locale_id = 1:  Cannot add another value; only 1 value is allowed
+2018-07-19 23:35:47 - ERROR --> [%] Failed to add value for coverage; values were coverage = Woodland Hills; locale_id = 1:  Cannot add another value; only 1 value is allowed
+2018-07-19 23:35:48 - ERROR --> [%] Failed to add value for coverage; values were coverage = Berkeley; locale_id = 1:  Cannot add another value; only 1 value is allowed
+2018-07-19 23:35:48 - ERROR --> [%] Failed to add value for coverage; values were coverage = Berkeley; locale_id = 1:  Cannot add another value; only 1 value is allowed
+2018-07-19 23:35:48 - ERROR --> [%] Failed to add value for coverage; values were coverage = Berkeley; locale_id = 1:  Cannot add another value; only 1 value is allowed
+2018-07-19 23:35:49 - ERROR --> [%] Failed to add value for coverage; values were coverage = New Brunswick; locale_id = 1:  Cannot add another value; only 1 value is allowed
+2018-07-19 23:35:50 - ERROR --> [%] Failed to add value for coverage; values were coverage = New York; locale_id = 1:  Cannot add another value; only 1 value is allowed
+2018-07-19 23:35:50 - ERROR --> [%] Failed to add value for coverage; values were coverage = New York; locale_id = 1:  Cannot add another value; only 1 value is allowed
+2018-07-19 23:35:51 - ERROR --> [%] Failed to add value for coverage; values were coverage = Arcata; locale_id = 1:  Cannot add another value; only 1 value is allowed
+2018-07-19 23:55:47 - ERROR --> [%] Invalid external_link; values were external_link = https://www.librarything.com/profile/clpzines; locale_id = 1:  Date is invalid
+2018-07-19 23:55:47 - ERROR --> [%] Invalid external_link; values were external_link = https://www.librarything.com/profile/clpzines; locale_id = 1:  Date is invalid
+2018-07-19 23:55:47 - ERROR --> [%] Invalid external_link; values were external_link = https://www.librarything.com/profile/clpzines; locale_id = 1:  Date is invalid
+2018-07-19 23:55:48 - ERROR --> [%] Invalid external_link; values were external_link = https://www.librarything.com/profile/clpzines; locale_id = 1:  Date is invalid
+2018-07-19 23:55:49 - ERROR --> [%] Invalid external_link; values were external_link = https://www.librarything.com/profile/clpzines; locale_id = 1:  Date is invalid
+2018-07-19 23:55:49 - ERROR --> [%] Invalid external_link; values were external_link = https://www.librarything.com/profile/clpzines; locale_id = 1:  Date is invalid
+2018-07-19 23:55:49 - ERROR --> [%] Invalid external_link; values were external_link = https://www.librarything.com/profile/clpzines; locale_id = 1:  Date is invalid
+2018-07-19 23:55:50 - ERROR --> [%] Invalid external_link; values were external_link = https://www.librarything.com/profile/clpzines; locale_id = 1:  Date is invalid
+2018-07-19 23:55:51 - ERROR --> [%] Invalid external_link; values were external_link = https://www.librarything.com/profile/clpzines; locale_id = 1:  Date is invalid
+2018-07-19 23:55:51 - ERROR --> [%] Invalid external_link; values were external_link = https://www.librarything.com/profile/clpzines; locale_id = 1:  Date is invalid
+2018-07-19 23:55:52 - ERROR --> [%] Invalid external_link; values were external_link = https://www.librarything.com/profile/clpzines; locale_id = 1:  Date is invalid
+2018-07-19 23:55:52 - ERROR --> [%] Invalid external_link; values were external_link = https://www.librarything.com/profile/clpzines; locale_id = 1:  Date is invalid
+2018-07-19 23:55:52 - ERROR --> [%] Invalid external_link; values were external_link = https://www.librarything.com/profile/clpzines; locale_id = 1:  Date is invalid
+2018-07-19 23:55:53 - ERROR --> [%] Invalid external_link; values were external_link = https://www.librarything.com/profile/clpzines; locale_id = 1:  Date is invalid
+2018-07-19 23:55:53 - ERROR --> [%] Invalid external_link; values were external_link = https://www.librarything.com/profile/clpzines; locale_id = 1:  Date is invalid
+2018-07-19 23:55:53 - ERROR --> [%] Invalid external_link; values were external_link = https://www.librarything.com/profile/clpzines; locale_id = 1:  Date is invalid
+2018-07-19 23:55:54 - ERROR --> [%] Invalid external_link; values were external_link = https://www.librarything.com/profile/clpzines; locale_id = 1:  Date is invalid
+2018-07-19 23:55:54 - ERROR --> [%] Invalid external_link; values were external_link = https://www.librarything.com/profile/clpzines; locale_id = 1:  Date is invalid
+2018-07-19 23:55:55 - ERROR --> [%] Invalid external_link; values were external_link = https://www.librarything.com/profile/clpzines; locale_id = 1:  Date is invalid
+2018-07-19 23:55:55 - ERROR --> [%] Invalid external_link; values were external_link = https://www.librarything.com/profile/clpzines; locale_id = 1:  Date is invalid
+2018-07-19 23:55:55 - ERROR --> [%] Invalid external_link; values were external_link = https://www.librarything.com/profile/clpzines; locale_id = 1:  Date is invalid
+2018-07-19 23:55:56 - ERROR --> [%] Invalid external_link; values were external_link = https://www.librarything.com/profile/clpzines; locale_id = 1:  Date is invalid
+2018-07-19 23:55:56 - ERROR --> [%] Invalid external_link; values were external_link = https://www.librarything.com/profile/clpzines; locale_id = 1:  Date is invalid
+2018-07-19 23:55:56 - ERROR --> [%] Invalid external_link; values were external_link = https://www.librarything.com/profile/clpzines; locale_id = 1:  Date is invalid
+2018-07-19 23:55:56 - ERROR --> [%] Invalid external_link; values were external_link = https://www.librarything.com/profile/clpzines; locale_id = 1:  Date is invalid
+2018-07-19 23:55:57 - ERROR --> [%] Invalid external_link; values were external_link = https://www.librarything.com/profile/clpzines; locale_id = 1:  Date is invalid
+2018-07-19 23:55:57 - ERROR --> [%] Invalid external_link; values were external_link = https://www.librarything.com/profile/clpzines; locale_id = 1:  Date is invalid
+2018-07-19 23:55:58 - ERROR --> [%] Invalid external_link; values were external_link = https://www.librarything.com/profile/clpzines; locale_id = 1:  Date is invalid

@@ -1,0 +1,78 @@
+CHANGE-LOG:
+
+@version: 2.2[19/09/2018]
+1) Screen-shot updated
+2) Minor Code Correction.
+
+@version: 2.1[12/02/2018]
+1) menu issue fixed.
+
+@version: 2.0[14/12/2017]
+1) Snow effect option added.
+2) Rating banner dismiss option added.
+
+@version: 1.9[16/11/2017]
+1) Minor changes in functions.php
+2) File added for Custom Header color 
+
+
+@version: 1.8[23/10/2017]
+1) Quick edit
+2) Editor 
+3) Icon picker
+4) Front Page Section Manager
+5) Rating banner
+
+
+
+@version: 1.7.3[02/05/2017]
+1. Product title option added in customizer for child theme .
+
+@version: 1.7.2[30/01/2017]
+1. Snow Js removed.
+2. Font-Awesome library added.
+
+@version: 1.7.1[28/12/2016]
+1. Snow Js added.
+2. Font-Awesome library added.
+ 
+
+@version: 1.7[15/06/2016]
+1. Update Pro Themes & Plugin page with premium Themes and Plugin Features.
+2. Woocommerce issue Fixed.
+3. Remove Home Page Demo Content.
+4. FA-icon set updated.
+
+
+@version: 1.6[20/05/2016]
+1. Theme Preview Home Page Added.
+2. Update About Theme page with premium Features.
+
+@version: 1.5[04/03/2016]
+1. Google Font API Added.
+2. Update About Theme page with premium Features.
+
+@version: 1.4[19/02/2016]
+1. Remove Snow Effect
+2. Remove x-mas banner.
+3. Update Theme Info Page to Upgrade to Pro with Premium Theme details.
+
+@Version: 1.3 [22/12/15]
+1. FA Icons 4.5.0
+2. x-mas banner
+3. Snow Effetcs
+
+@Version: 1.2 [19/11/15]
+1. Minor issue.
+2. Theme info page added for theme guide.
+3. text-Domain added.
+
+@Version: 1.1 [17/11/15]
+1. Minor slider issue fixed 
+
+@Version: 1.0 [10/11/15]
+1. Minor issue fixed.
+2. Missing menu issue fixed.
+
+@Version: 0.5 [23/10/15]
+**Mobile Menu Fix.

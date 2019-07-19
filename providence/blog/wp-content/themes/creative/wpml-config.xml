@@ -1,0 +1,49 @@
+<wpml-config>
+<admin-texts>
+	<key name="creative_general_options">
+		<key name="slider_title_1" />
+		<key name="slider_description_1" />
+		<key name="slider_button_text_1" />
+		<key name="slider_title_2" />
+		<key name="slider_description_2" />
+		<key name="slider_button_text_2" />
+		<key name="slider_title_3" />
+		<key name="slider_description_3" />
+		<key name="slider_button_text_3" />
+
+		<key name="home_service_title" />
+		<key name="home_service_description" />
+		<key name="service_title_1" />
+		<key name="service_description_1" />
+		<key name="service_title_2" />
+		<key name="service_description_2" />
+		<key name="service_title_3" />
+		<key name="service_description_3" />
+		
+		<key name="home_port_title" />
+		<key name="home_port_description" />
+		<key name="port_title_1" />
+		<key name="port_tagline_1" />
+		<key name="port_description_1" />
+		<key name="port_title_2" />
+		<key name="port_tagline_2" />
+		<key name="port_description_2" />
+		<key name="port_title_3" />
+		<key name="port_tagline_3" />
+		<key name="port_description_3" />
+		
+		<key name="home_blog_title" />
+		<key name="home_blog_description" />
+		
+		<key name="footer_call_out_title" />
+		<key name="footer_call_out_button_text" />
+
+		<key name="email_id" />
+		<key name="phone_no" />
+
+		<key name="footer_customizations" />
+		<key name="developed_by_text" />
+		<key name="developed_by_creative_text" />
+	</key>
+</admin-texts>
+</wpml-config>

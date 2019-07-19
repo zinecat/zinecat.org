@@ -1,0 +1,70 @@
+2018-07-16 1:27:46 - ERROR --> [%] Could not add preferred label to ca_objects. Record was deleted because no preferred label could be applied:  Name must be at least 1 characters
+2018-07-16 1:27:46 - ALERT --> Import stopped due to import error policy stop
+2018-07-16 1:50:17 - ERROR --> Could not insert collection : Type must be specified
+2018-07-16 1:50:17 - ERROR --> Could not insert collection : Type must be specified
+2018-07-16 1:50:17 - ERROR --> Could not insert collection : Type must be specified
+2018-07-16 1:50:18 - ERROR --> Could not insert collection : Type must be specified
+2018-07-16 1:50:18 - ERROR --> Could not insert collection : Type must be specified
+2018-07-16 1:50:18 - ERROR --> Could not insert collection : Type must be specified
+2018-07-16 1:50:19 - ERROR --> Could not insert collection : Type must be specified
+2018-07-16 1:50:19 - ERROR --> [%] Failed to add value for coverage; values were coverage = 2; locale_id = 1:  Cannot add another value; only 1 value is allowed
+2018-07-16 1:50:19 - ERROR --> Could not insert collection : Type must be specified
+2018-07-16 1:50:19 - ERROR --> Could not insert collection : Type must be specified
+2018-07-16 1:50:20 - ERROR --> Could not insert collection : Type must be specified
+2018-07-16 1:50:20 - ERROR --> Could not insert collection : Type must be specified
+2018-07-16 1:50:20 - ERROR --> Could not insert collection : Type must be specified
+2018-07-16 1:50:21 - ERROR --> Could not insert collection : Type must be specified
+2018-07-16 1:50:21 - ERROR --> Could not insert collection : Type must be specified
+2018-07-16 1:50:21 - ERROR --> Could not insert collection : Type must be specified
+2018-07-16 1:50:22 - ERROR --> Could not insert collection : Type must be specified
+2018-07-16 1:50:22 - ERROR --> Could not insert collection : Type must be specified
+2018-07-16 1:50:22 - ERROR --> Could not insert collection : Type must be specified
+2018-07-16 1:50:22 - ERROR --> Could not insert collection : Type must be specified
+2018-07-16 1:50:23 - ERROR --> Could not insert collection : Type must be specified
+2018-07-16 1:50:23 - ERROR --> Could not insert collection : Type must be specified
+2018-07-16 1:50:23 - ERROR --> Could not insert collection : Type must be specified
+2018-07-16 1:50:24 - ERROR --> Could not insert collection : Type must be specified
+2018-07-16 1:50:24 - ERROR --> Could not insert collection : Type must be specified
+2018-07-16 1:50:24 - ERROR --> Could not insert collection : Type must be specified
+2018-07-16 1:50:25 - ERROR --> Could not insert collection : Type must be specified
+2018-07-16 1:50:25 - ERROR --> Could not insert collection : Type must be specified
+2018-07-16 1:50:25 - ERROR --> Could not insert collection : Type must be specified
+2018-07-16 1:50:26 - ERROR --> Could not insert collection : Type must be specified
+2018-07-16 1:50:26 - ERROR --> Could not insert collection : Type must be specified
+2018-07-16 1:50:26 - ERROR --> Could not insert collection : Type must be specified
+2018-07-16 1:50:26 - ERROR --> Could not insert collection : Type must be specified
+2018-07-16 1:55:04 - ERROR --> Could not insert collection : Type must be specified
+2018-07-16 1:55:04 - ERROR --> Could not insert collection : Type must be specified
+2018-07-16 1:55:04 - ERROR --> Could not insert collection : Type must be specified
+2018-07-16 1:55:04 - ERROR --> [%] Failed to add value for coverage; values were coverage = 2; locale_id = 1:  Cannot add another value; only 1 value is allowed
+2018-07-16 1:55:04 - ERROR --> Could not insert collection : Type must be specified
+2018-07-16 1:55:04 - ERROR --> Could not insert collection : Type must be specified
+2018-07-16 1:55:05 - ERROR --> Could not insert collection : Type must be specified
+2018-07-16 1:55:05 - ERROR --> Could not insert collection : Type must be specified
+2018-07-16 1:55:05 - ERROR --> [%] Failed to add value for coverage; values were coverage = 2; locale_id = 1:  Cannot add another value; only 1 value is allowed
+2018-07-16 1:55:05 - ERROR --> Could not insert collection : Type must be specified
+2018-07-16 1:55:05 - ERROR --> Could not insert collection : Type must be specified
+2018-07-16 1:55:06 - ERROR --> Could not insert collection : Type must be specified
+2018-07-16 1:55:06 - ERROR --> Could not insert collection : Type must be specified
+2018-07-16 1:55:06 - ERROR --> Could not insert collection : Type must be specified
+2018-07-16 1:55:06 - ERROR --> Could not insert collection : Type must be specified
+2018-07-16 1:55:06 - ERROR --> Could not insert collection : Type must be specified
+2018-07-16 1:55:07 - ERROR --> Could not insert collection : Type must be specified
+2018-07-16 1:55:07 - ERROR --> Could not insert collection : Type must be specified
+2018-07-16 1:55:07 - ERROR --> Could not insert collection : Type must be specified
+2018-07-16 1:55:07 - ERROR --> Could not insert collection : Type must be specified
+2018-07-16 1:55:07 - ERROR --> Could not insert collection : Type must be specified
+2018-07-16 1:55:08 - ERROR --> Could not insert collection : Type must be specified
+2018-07-16 1:55:08 - ERROR --> Could not insert collection : Type must be specified
+2018-07-16 1:55:08 - ERROR --> Could not insert collection : Type must be specified
+2018-07-16 1:55:08 - ERROR --> Could not insert collection : Type must be specified
+2018-07-16 1:55:09 - ERROR --> Could not insert collection : Type must be specified
+2018-07-16 1:55:09 - ERROR --> Could not insert collection : Type must be specified
+2018-07-16 1:55:09 - ERROR --> Could not insert collection : Type must be specified
+2018-07-16 1:55:10 - ERROR --> Could not insert collection : Type must be specified
+2018-07-16 1:55:10 - ERROR --> Could not insert collection : Type must be specified
+2018-07-16 1:55:11 - ERROR --> Could not insert collection : Type must be specified
+2018-07-16 1:55:11 - ERROR --> [%] Failed to add value for coverage; values were coverage = 2; locale_id = 1:  Cannot add another value; only 1 value is allowed
+2018-07-16 1:55:11 - ERROR --> Could not insert collection : Type must be specified
+2018-07-16 1:55:11 - ERROR --> Could not insert collection : Type must be specified
+2018-07-16 1:55:11 - ERROR --> Could not insert collection : Type must be specified

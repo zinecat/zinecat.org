@@ -1,0 +1,13 @@
+2017-05-15 12:26:23 - ERROR --> Could not set preferred label for entity Nia King; juli jeong martin; Charlotte Albrecht; Jackie Wang; Jillian Ford; Claudia Leung; Nadia Abou-Karr; Stevie Peace; Patti Duncan: Surname/organization must not be more than 100 characters long
+2017-05-15 17:32:07 - ERROR --> Could not set preferred label for entity Nia King; juli jeong martin; Charlotte Albrecht; Jackie Wang; Jillian Ford; Claudia Leung; Nadia Abou-Karr; Stevie Peace; Patti Duncan: Surname/organization must not be more than 100 characters long
+2017-05-15 17:48:51 - ERROR --> Could not set preferred label for entity Nia King; juli jeong martin; Charlotte Albrecht; Jackie Wang; Jillian Ford; Claudia Leung; Nadia Abou-Karr; Stevie Peace; Patti Duncan: Surname/organization must not be more than 100 characters long
+2017-05-15 17:50:38 - ERROR --> [%] Failed to add value for coverage; values were coverage = Chicago; locale_id = 1:  Cannot add another value; only 1 value is allowed
+2017-05-15 18:00:43 - ERROR --> [%] Failed to add value for coverage; values were coverage = Somerville; locale_id = 1:  Cannot add another value; only 1 value is allowed
+2017-05-15 18:00:56 - ERROR --> [%] Failed to add value for coverage; values were coverage = Iowa City; locale_id = 1:  Cannot add another value; only 1 value is allowed
+2017-05-15 18:00:58 - ERROR --> [%] Failed to add value for coverage; values were coverage = Champaign; locale_id = 1:  Cannot add another value; only 1 value is allowed
+2017-05-15 18:00:59 - ERROR --> [%] Failed to add value for coverage; values were coverage = Claremont; locale_id = 1:  Cannot add another value; only 1 value is allowed
+2017-05-15 18:00:59 - ERROR --> [%] Failed to add value for coverage; values were coverage = Brooklyn; locale_id = 1:  Cannot add another value; only 1 value is allowed
+2017-05-15 18:01:01 - ERROR --> [%] Failed to add value for coverage; values were coverage = Montreal; locale_id = 1:  Cannot add another value; only 1 value is allowed
+2017-05-15 18:01:02 - ERROR --> [%] Failed to add value for coverage; values were coverage = Montreal; locale_id = 1:  Cannot add another value; only 1 value is allowed
+2017-05-15 18:01:04 - ERROR --> [%] Failed to add value for coverage; values were coverage = New York City; locale_id = 1:  Cannot add another value; only 1 value is allowed
+2017-05-15 18:01:04 - ERROR --> [%] Failed to add value for coverage; values were coverage = New York City; locale_id = 1:  Cannot add another value; only 1 value is allowed
