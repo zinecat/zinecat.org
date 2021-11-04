@@ -3,7 +3,7 @@ This document will teach you how to add a set of zine catalog data to the Zineca
 
 - Tools: Excel, Terminal (or other command line access), CollectiveAccess
 
-## Backing up the existing database (CollectiveAccess, Terminal)
+## 1. Backing up the existing database (CollectiveAccess, Terminal)
 
 The first step is to make sure that you back up the existing CA database, in the event that your import isn’t quite correct and will need to be rolled back, tweaked, and re-ingested. 
 First, you will need to remotely connect to the ZineCat development server using SSH (Secure SHell) in your Terminal. Open up Terminal and type the following:
@@ -26,7 +26,7 @@ Now you’re connected to the server! We need to back up the db + zip it into a 
     sudo mysqldump zinecat | gzip -v > ~/filename.sql.gz
 
 This command will take a little while to run. While it’s working, we can begin on the next step.
-## Mapping the catalog data to Zinecat’s database (Excel)
+## 2. Mapping the catalog data to Zinecat’s database (Excel)
 
 The next step is to figure out how to take the existing catalog dataset and translate it into Collective Access’ data model. This is the most subjective and fiddly step of the process.
 
@@ -45,11 +45,11 @@ Here are a few of the most common Collective Access headings that you might see 
 
 
 Check out the [MAPPING CHEAT SHEET](https://docs.google.com/spreadsheets/d/1xSLdt6H44u7obG3iNpHjyRiZeOs1gzJ-Ze--HwUx9gI/edit?usp=sharing) or some of the examples of pre-existing mapping files to get a more comprehensive sense of how this works.
-## Importing the mapped catalog data (CollectiveAccess)
+## 3. Importing the mapped catalog data (CollectiveAccess)
 
 Once your mapping looks correct, it’s time to try ingesting your catalog data. In the CA interface, go to Import > Data. Drag your mapping Excel file into the box to add it to the list. Then click the arrow in the right hand column of your new mapping to begin a new import. In the “Data File” section on the next screen, browse to your data Excel file. Then click “Execute data import.” Note that this may take some time, and your screen may appear to be frozen for awhile. You may or may not get an “in progress” loading screen, depending on how long the ingest is taking.
 
-## Check the import for errors & restore backup if needed (CollectiveAccess, Terminal)
+## 4. Check the import for errors & restore backup if needed (CollectiveAccess, Terminal)
 
 Now we get to find out how well our mapping actually worked. Once the ingest finishes, go back to your [admin dashboard](https://zinecatdev.openflows.com/admin/) and try searching for any zine in your dataset. Make sure that:
 - The zine actually shows up when you search for it by title
