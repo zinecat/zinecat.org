@@ -54,6 +54,7 @@ Follow:
 - Blog: http://blog.zinecat.org/ 
 - Twitter: @zinecat
 - Facebook: @ZineUnionCatalog
+- Instagram: @ZineUnionCat
 
 ### Thank you
 **Thank you** to all the caticorns in the universe that have already gotten involved in building the Zine Union Catalog and thank you to all the future caticorns for their contributions! :smiley_cat:
